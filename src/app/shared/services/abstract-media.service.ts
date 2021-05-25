@@ -1,0 +1,2 @@
+export class AbstractMedia.Service {
+}
